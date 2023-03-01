@@ -1,0 +1,6 @@
+Hello all this is abhay.
+
+I made a Simple C Program to collect the information in Different '.txt' files when you enter them when you first run it.
+It stores Number of Students AND Student's Name, Id, Course, Phone no. in different files than each other using File I/O.
+
+IT IS STILL IN PROGRESS AND THERE ARE SOME RUNTIME ERRORS.
